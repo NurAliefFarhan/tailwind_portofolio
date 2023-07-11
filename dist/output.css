@@ -1000,6 +1000,26 @@ video {
   padding-top: 9rem;
 }
 
+.pt-\[\] {
+  padding-top: ;
+}
+
+.pt-\[23\] {
+  padding-top: 23;
+}
+
+.pt-\[24\] {
+  padding-top: 24;
+}
+
+.pt-\[25\] {
+  padding-top: 25;
+}
+
+.pt-\[25rem\] {
+  padding-top: 25rem;
+}
+
 .text-center {
   text-align: center;
 }
